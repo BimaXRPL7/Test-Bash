@@ -23,6 +23,7 @@ public class AntarAja {
         JasaPacking = Liter * 1000;
         TotalBiaya = JasaKurir + JasaPacking;
         System.out.println("Total biaya kirim: "+TotalBiaya);
+        System.out.println("Ini Tambahan dari B");
 
         input.close();
     }
